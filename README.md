@@ -1,5 +1,8 @@
 # Neural Dream Videos
+![alt text](./ndream1.png)
+
 A deep learning method for creating video sequences
+
 
 This repository includes a method for creating what I like to call Neural Dream Videos, which are a way of generating new videos
 with the same temorpal and spatial qualities as a source video. It uses a variational autoencoder and recurrent neural
