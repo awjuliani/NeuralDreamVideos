@@ -11,4 +11,4 @@ The neural network architectures are written in Tensorflow, and you will likely 
 
 The VAE is based on the model by [Jan Hendrik Metzen](https://jmetzen.github.io/2015-11-27/vae.html).
 
-The RNN is heavily modifies from  the model by [sherjilozair](https://github.com/sherjilozair/char-rnn-tensorflow).
+The RNN is heavily modified from  the model by [sherjilozair](https://github.com/sherjilozair/char-rnn-tensorflow).
